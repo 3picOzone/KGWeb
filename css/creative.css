@@ -317,3 +317,14 @@ header.masthead p {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+
+.socialLink {
+  font-size: 1.8em;
+  margin: 6px;
+  display: inline-block;
+  overflow: hidden;
+  text-align: center;
+  line-height: 40px;
+  width: 40px;
+  height: 40px;
+}
